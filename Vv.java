@@ -10,7 +10,7 @@ class Half implements Function{
     }
 }
 
-public class AA {
+public class Vv {
     public static void main(String[] args){
     Scanner sc = new Scanner(System.in);
 
@@ -49,5 +49,6 @@ public class AA {
     sc.close();
     }
 }
+
 
 
